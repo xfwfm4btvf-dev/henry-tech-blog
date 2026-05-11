@@ -1,0 +1,1 @@
+# ⚠️ DEPRECATED\n\nThis repository is deprecated.\n\n**原因：** 已迁移到新仓库 [my-app](https://github.com/xfwfm4btvf-dev/my-app)，使用最新版本的 Next.js 16 + Magic UI 重新构建。\n\n请访问新博客：https://xfwfm4btvf-dev.github.io/my-app/
