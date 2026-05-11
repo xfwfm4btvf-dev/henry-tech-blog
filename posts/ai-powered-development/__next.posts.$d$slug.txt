@@ -2,4 +2,4 @@
 2:I[39756,["/henry-tech-blog/_next/static/chunks/02cpx0ysx.bm~.js","/henry-tech-blog/_next/static/chunks/0o.5nbh6.n~7g.js","/henry-tech-blog/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
 3:I[37457,["/henry-tech-blog/_next/static/chunks/02cpx0ysx.bm~.js","/henry-tech-blog/_next/static/chunks/0o.5nbh6.n~7g.js","/henry-tech-blog/_next/static/chunks/0d3shmwh5_nmn.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"C8z8WbbyVfUlDujM1GXJ-"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"p0lBtNGY-0d3MW7PVp-Ag"}
