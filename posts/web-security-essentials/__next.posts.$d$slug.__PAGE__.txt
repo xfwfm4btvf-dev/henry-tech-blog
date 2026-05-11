@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[66919,["/henry-tech-blog/_next/static/chunks/02cpx0ysx.bm~.js","/henry-tech-blog/_next/static/chunks/0o.5nbh6.n~7g.js","/henry-tech-blog/_next/static/chunks/0d3shmwh5_nmn.js","/henry-tech-blog/_next/static/chunks/0ii1ysf_yi2ex.js"],"default"]
+3:I[53488,["/henry-tech-blog/_next/static/chunks/02cpx0ysx.bm~.js","/henry-tech-blog/_next/static/chunks/0o.5nbh6.n~7g.js","/henry-tech-blog/_next/static/chunks/0d3shmwh5_nmn.js","/henry-tech-blog/_next/static/chunks/0ii1ysf_yi2ex.js"],"default"]
+4:I[97367,["/henry-tech-blog/_next/static/chunks/02cpx0ysx.bm~.js","/henry-tech-blog/_next/static/chunks/0o.5nbh6.n~7g.js","/henry-tech-blog/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"maxWidth":"lg","sx":{"py":8},"children":["$","$L3",null,{"variant":"h4","children":"Post not found"}]}],[["$","script","script-0",{"src":"/henry-tech-blog/_next/static/chunks/0ii1ysf_yi2ex.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"C8z8WbbyVfUlDujM1GXJ-"}
+6:null
